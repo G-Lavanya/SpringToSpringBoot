@@ -27,6 +27,7 @@ public class BasicLambda {
 		//i.m1();
 
 		 interf i = ()->System.out.println("M1 implementation");
+		 i.m1();
 	}
 
 }
